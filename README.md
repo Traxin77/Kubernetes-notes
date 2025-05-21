@@ -1,6 +1,21 @@
 # Kubernetes-notes
+My personal notes about Kubernetes.
+What's Inside
+These notes cover:
 
-Created these notes while learning about Kubernetes. 
+Kubernetes basics and setup
+Clusters and how they work
+Pods, Deployments, and Services
+Network settings
+Storage options
+Security features
+Installation steps
 
-
-(I used obsidian when creating the notes so i will be useefull if you open the repo in obsidian)
+Why I Made This
+This is my learning notebook for Kubernetes. It helps me remember important concepts and commands.
+How to Use
+These are Markdown files that work with Obsidian. 
+To get a copy:
+```
+git clone https://github.com/Traxin77/Kubernetes-notes.git
+```
